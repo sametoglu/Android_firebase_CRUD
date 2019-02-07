@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">firebase-crud</string>
+
+    <array name="addressArray">
+        <item>Ankara</item>
+        <item>İstanbul</item>
+        <item>İzmir</item>
+        <item>Antalya</item>
+    </array>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "228045116891",
+    "firebase_url": "https://fir-crud-7ac01.firebaseio.com",
+    "project_id": "fir-crud-7ac01",
+    "storage_bucket": "fir-crud-7ac01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228045116891:android:f19eb9c2c14523c8",
+        "android_client_info": {
+          "package_name": "com.example.samet.firebase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228045116891-2dcn7ltleikvtkb9sbu3b7mmjdl7tb9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samet.firebase_crud",
+            "certificate_hash": "bd31b625e696feb50f51aa841c8a58dd6807d969"
+          }
+        },
+        {
+          "client_id": "228045116891-571oa9ge63srk0s28g5da6dsguhretk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Your Api Key"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228045116891-571oa9ge63srk0s28g5da6dsguhretk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

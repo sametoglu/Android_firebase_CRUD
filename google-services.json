@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "97063191389",
+    "firebase_url": "https://mesajlasma-13ace.firebaseio.com",
+    "project_id": "mesajlasma-13ace",
+    "storage_bucket": "mesajlasma-13ace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97063191389:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97063191389-p3vjl5da1itcclp5hijkvhsa26gi84fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "bd31b625e696feb50f51aa841c8a58dd6807d969"
+          }
+        },
+        {
+          "client_id": "97063191389-sjd3qob6oukb9d5a5ckdbgqmpusvqc88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR APİ KEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97063191389-sjd3qob6oukb9d5a5ckdbgqmpusvqc88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
